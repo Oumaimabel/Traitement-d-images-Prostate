@@ -1,6 +1,4 @@
-# Traitement d'images: IRM de Prostate
-
-![Formation_prostate_Figure_Une-1119x379](https://user-images.githubusercontent.com/93741954/182485138-3f87a7d9-cb8d-41e6-b643-de56548f723d.jpg)
+# Traitement d'images
 
 ### Introduction
 
@@ -17,3 +15,12 @@ non seulement d'observer un organe, mais aussi de le voir fonctionner, grâce à
 fixes ou animées. L’imagerie médicale est de plus en plus utilisée pour le diagnostic, en 
 complément d’un examen clinique et d’autres investigations, comme des examens 
 biologiques ou des tests neuropsychologiques.
+
+
+### IRM de Prostate
+
+![Formation_prostate_Figure_Une-1119x379](https://user-images.githubusercontent.com/93741954/182485138-3f87a7d9-cb8d-41e6-b643-de56548f723d.jpg)
+
+### IRM d'AVC
+
+![IRM_AVC](https://user-images.githubusercontent.com/93741954/182485862-dda829f2-2751-4be6-bcc9-927249f8b316.png)
