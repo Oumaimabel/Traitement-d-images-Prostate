@@ -1,5 +1,7 @@
 # Traitement d'images
 
+![handling-dicom-medical-imaging-data-social](https://user-images.githubusercontent.com/93741954/182487171-66f14dbf-ec65-4969-a6ca-eb9b9dbdfc00.png)
+
 ### Introduction
 
 L’imagerie médicale est née plus de cent ans. Aujourd’hui, les techniques d’imagerie 
